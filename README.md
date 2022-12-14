@@ -22,8 +22,12 @@ Des [codes exemple](Séances_Matrice_de_LED/Code) sont disponibles (deux projets
 
 ### <a name="seance_attiny"></a>Miniaturisation avec l'ATtiny
 
-En cours de  rédaction
+La miniaturisation des projets Arduino à l'aide de l'ATtiny 85 présentée en une séance. Les slides sont disponibles [ici](/Séance_ATtiny85/Slides/ATtiny85.pdf).
 
 ### <a name="seance_rpi"></a>Séances Raspberry Pi
 
-En cours de  rédaction
+Les séances relatives aux ordinateurs monocartes Raspberry Pi portent sur l'installation du système d'exploitation, la connexion en SSH ou via VNC, l'utilisation de différentes commandes dans le terminal (via VNC ou SSH), l'interaction avec les broches (via le système de fichiers, C++ ou Python) et réalisation d'un petit projet d'interface graphique.
+
+Les slides sont disponibles [ici](/Séances_Raspberry_Pi/RPi.pdf).
+
+En outre, par simplicité un guide de démarrage rapide est disponible [ici](/Séances_Raspberry_Pi/quickstart.md).
