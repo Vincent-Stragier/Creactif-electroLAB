@@ -1,5 +1,8 @@
 {
     "cSpell.language": "fr,en",
     "ltex.additionalRules.motherTongue": "fr",
-    "ltex.language": "fr"
+    "ltex.language": "fr",
+    "cSpell.words": [
+        "SSID"
+    ]
 }
